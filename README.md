@@ -1,7 +1,4 @@
-<h2 style="margin: 0; 
-    background: linear-gradient(to right, #FF7F50, #1E90FF);
-    -webkit-background-clip: text;
-    color: transparent;">
+<h2>
     SkiddGoddamn Russia Developer
 </h2>
 
