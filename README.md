@@ -1,7 +1,7 @@
 <h2>SkiddGoddamn Russia Developer</h2>
 
 <h4>Programming Languages</h4>
-<p>
+<div style="display: flex;">
   <div onclick="window.open('https://www.java.com', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   </div>
@@ -23,7 +23,7 @@
   <div onclick="window.open('https://developer.mozilla.org/en-US/docs/Web/CSS', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   </div>
-</p>
+</div>
 
 <h4>I'm always open to interesting conversations and collaboration.</h4>
 <p>
