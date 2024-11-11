@@ -1,8 +1,8 @@
-<h2>SkiddGoddamn Russia Developer</h2>
+<h2><img alt="Head" src="https://mc-heads.net/head/SkiddGoddamn" style="cursor: pointer; display: inline-block;" />SkiddGoddamn Russia Developer</h2>
 
 <h4>Programming Languages</h4>
 <div style="display: flex; gap: 10px; flex-direction: column;">
-  <span onclick="window.open('https://www.java.com', '_blank')" style="cursor: pointer; display: inline-block;">
+  <span onclick="window.open('https://www.java.com', '_blank')" style="width: 35px; height: 35px;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   </span>
   <span onclick="window.open('https://spring.io/', '_blank')" style="cursor: pointer; display: inline-block;">
