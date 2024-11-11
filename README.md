@@ -2,12 +2,12 @@
 
 <h4>Programming Languages</h4>
 <div style="display: flex; gap: 10px; flex-direction: column;">
-  <div onclick="window.open('https://www.java.com', '_blank')" style="cursor: pointer; display: inline-block;">
+  <span onclick="window.open('https://www.java.com', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-  </div>
-  <div onclick="window.open('https://www.python.org', '_blank')" style="cursor: pointer; display: inline-block;">
+  </span>
+  <span onclick="window.open('https://www.python.org', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  </div>
+  </span>
   <div onclick="window.open('https://reactjs.org', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=for-the-badge&logoColor=%2361DAFB"/>
   </div>
