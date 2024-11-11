@@ -3,7 +3,7 @@
 </h2>
 
 <h4>Programming Languages</h4>
-<div style="display: flex; gap: 10px; flex-direction: column;">
+<div style="display: flex; gap: 10px;">
   <span onclick="window.open('https://www.java.com', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   </span>
