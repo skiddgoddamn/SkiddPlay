@@ -31,7 +31,7 @@
 </div>
 
 <h4>I'm always open to interesting conversations and collaboration.</h4>
-<div style="display: flex; gap: 10px; flex-direction: column;">
+<div style="display: flex; gap: 10px;">
   <span onclick="window.open('https://discord.minecomplex.net/', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="skiddplay" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </span>
@@ -40,5 +40,9 @@
   </span>
 </div>
 
-[![SkiddGoddamn's GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddgoddamn&theme=radical)](https://github.com/skiddgoddamn)
+<div style="margin-top: 20px;">
+  <a href="https://github.com/skiddgoddamn" target="_blank">
+    <img alt="SkiddGoddamn's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=skiddgoddamn&theme=radical" />
+  </a>
+</div>
 
