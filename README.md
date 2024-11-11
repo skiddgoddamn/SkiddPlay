@@ -1,4 +1,4 @@
-<h2 style="margin: 0;"> <img alt="Head" src="https://mc-heads.net/head/SkiddGoddamn" style="width: 30px; height: 30px; margin-right: 10px;" /> SkiddGoddamn Russia Developer</h2>
+<h2 style="margin: 0;"> <img alt="Head" src="https://mc-heads.net/head/SkiddGoddamn" style="width: 30px; height: 30px; margin-right: 15px; margin-top: 15px;" /> SkiddGoddamn Russia Developer</h2>
 
 <h4>Programming Languages</h4>
 <div style="display: flex; gap: 10px; flex-direction: column;">
