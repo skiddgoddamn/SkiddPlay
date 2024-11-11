@@ -1,7 +1,7 @@
 <h2>SkiddGoddamn Russia Developer</h2>
 
 <h4>Programming Languages</h4>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; flex-direction: column;">
   <div onclick="window.open('https://www.java.com', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   </div>
@@ -26,7 +26,7 @@
 </div>
 
 <h4>I'm always open to interesting conversations and collaboration.</h4>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; flex-direction: column;">
   <div onclick="window.open('https://discord.minecomplex.net/', '_blank')" style="cursor: pointer; display: inline-block;">
     <img alt="skiddplay" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </div>
