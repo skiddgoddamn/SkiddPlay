@@ -41,3 +41,19 @@
 </div>
 
 [![SkiddGoddamn's GitHub stats](https://github-readme-stats.vercel.app/api?username=skiddgoddamn&theme=radical)](https://github.com/skiddgoddamn)
+
+<button id="playButton">Play Music</button>
+
+  <script>
+    const audio = new Audio("https://rus.hitmotop.com/get/music/20220119/Serega_pirat_-_shizoid_73676869.mp3");
+
+    document.getElementById("playButton").addEventListener("click", () => {
+      if (audio.paused) {
+        audio.play();
+        document.getElementById("playButton").innerText = "Pause Music";
+      } else {
+        audio.pause();
+        document.getElementById("playButton").innerText = "Play Music";
+      }
+    });
+  </script>
