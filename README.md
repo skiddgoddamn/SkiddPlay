@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img alt="Head" src="https://mc-heads.net/head/SkiddGoddamn" style="width: 35px; height: 35px;" />
-  <h2>SkiddGoddamn Russia Developer</h2>
+<div style="display: flex; align-items: center; white-space: nowrap;">
+  <img alt="Head" src="https://mc-heads.net/head/SkiddGoddamn" style="width: 30px; height: 30px; margin-right: 10px;" />
+  <h2 style="margin: 0;">SkiddGoddamn Russia Developer</h2>
 </div>
 
 <h4>Programming Languages</h4>
