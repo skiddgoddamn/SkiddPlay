@@ -1,4 +1,4 @@
-<div style="align-items: center;">
+<div style="display: flex; align-items: center;">
   <img alt="Head" src="https://mc-heads.net/head/SkiddGoddamn" style="width: 35px; height: 35px;" />
   <h2>SkiddGoddamn Russia Developer</h2>
 </div>
