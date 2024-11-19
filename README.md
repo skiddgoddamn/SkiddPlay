@@ -1,4 +1,4 @@
-<h2>SkiddGoddamn Russia Developer</h2>
+<h2>SkiddGoddamn Russian Developer</h2>
 
 <h4>Programming Languages</h4>
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
